@@ -8,6 +8,8 @@ end
 gem 'rails', '~> 5.0.2'
 
 gem 'devise'
+gem 'devise-i18n'
+gem 'rails-i18n'
 
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
