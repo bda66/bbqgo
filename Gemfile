@@ -7,6 +7,8 @@ end
 
 gem 'rails', '~> 5.0.2'
 
+gem 'devise'
+
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
 gem 'uglifier', '>= 1.3.0'
